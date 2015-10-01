@@ -2,6 +2,12 @@
 Readme.txt
 
 
+      UNLOCK INTEL ME @
+     {0x00000000-0x00000fff}
+     {0x00005000-0x005fffff}
+     
+Reprogram EEPROM CHIP-- flash Programer "Opaque flash chip" {12288 kb}"
+
     PCI Devices:
       Bus 0, Device 25, Function 0                      Intel 82579LM Gigabit Network Connection
       Bus 0, Device 31, Function 2                      Intel 82801HB(M) ICH8(M) - SATA RAID Controller
