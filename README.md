@@ -1,5 +1,6 @@
 # New-Bios-implementation-preparation.
 Readme.txt
+<<<<<<< HEAD
 
 
       UNLOCK INTEL ME @
@@ -631,3 +632,5 @@ Reprogram EEPROM CHIP-- flash Programer "Opaque flash chip" {12288 kb}"
 ------------------------------------------------------------------------------------------------------------------------
 
 The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+=======
+>>>>>>> parent of 6680394... Update README.md
